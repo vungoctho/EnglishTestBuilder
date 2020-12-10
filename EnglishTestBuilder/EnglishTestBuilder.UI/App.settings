@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EnglishTestBuilder.UI" GeneratedClassName="App">
+  <Profiles />
+  <Settings>
+    <Setting Name="WordFormDataRootFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\WordFormDataFiles</Value>
+    </Setting>
+    <Setting Name="WordFormOutputRootFolder" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\WordFormDataFiles\Docx</Value>
+    </Setting>
+    <Setting Name="WordFormDataFileName" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wordform.json</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

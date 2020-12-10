@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishTestBuilder.UI", "EnglishTestBuilder.UI\EnglishTestBuilder.UI.csproj", "{BC8C1605-02EB-4717-9BC6-58437FA5252E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishTestBuilder.Models", "EnglishTestBuilder.Models\EnglishTestBuilder.Models.csproj", "{BD274EB2-9625-4DAA-9EDD-3162820EE148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglistTestBuilder.DataAccess", "EnglistTestBuilder.DataAccess\EnglistTestBuilder.DataAccess.csproj", "{D7775DB4-425E-42BC-8653-AE62ABD0D9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishTestBuilder.Common", "EnglishTestBuilder.Common\EnglishTestBuilder.Common.csproj", "{35175B2F-5CF4-47D7-BA85-47327FBC1B3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishTestBuilder.Services", "EnglishTestBuilder.Services\EnglishTestBuilder.Services.csproj", "{B955BE07-8B0A-4D98-8886-44EF0F2218C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishTestBuilder.Core", "EnglishTestBuilder.Core\EnglishTestBuilder.Core.csproj", "{72542D01-7224-4E13-84BA-66BBDA513686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC8C1605-02EB-4717-9BC6-58437FA5252E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC8C1605-02EB-4717-9BC6-58437FA5252E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC8C1605-02EB-4717-9BC6-58437FA5252E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC8C1605-02EB-4717-9BC6-58437FA5252E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD274EB2-9625-4DAA-9EDD-3162820EE148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD274EB2-9625-4DAA-9EDD-3162820EE148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD274EB2-9625-4DAA-9EDD-3162820EE148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD274EB2-9625-4DAA-9EDD-3162820EE148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7775DB4-425E-42BC-8653-AE62ABD0D9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7775DB4-425E-42BC-8653-AE62ABD0D9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7775DB4-425E-42BC-8653-AE62ABD0D9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7775DB4-425E-42BC-8653-AE62ABD0D9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35175B2F-5CF4-47D7-BA85-47327FBC1B3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35175B2F-5CF4-47D7-BA85-47327FBC1B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35175B2F-5CF4-47D7-BA85-47327FBC1B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35175B2F-5CF4-47D7-BA85-47327FBC1B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B955BE07-8B0A-4D98-8886-44EF0F2218C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B955BE07-8B0A-4D98-8886-44EF0F2218C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B955BE07-8B0A-4D98-8886-44EF0F2218C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B955BE07-8B0A-4D98-8886-44EF0F2218C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72542D01-7224-4E13-84BA-66BBDA513686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72542D01-7224-4E13-84BA-66BBDA513686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72542D01-7224-4E13-84BA-66BBDA513686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72542D01-7224-4E13-84BA-66BBDA513686}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA637C06-89EB-4843-905A-03BAD59E09AE}
+	EndGlobalSection
+EndGlobal
